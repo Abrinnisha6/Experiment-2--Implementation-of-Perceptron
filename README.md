@@ -161,7 +161,7 @@ plt.show()
 
 ### Scatter Plot :
 
-![nn2](https://github.com/Abrinnisha6/Experiment-2--Implementation-of-Perceptron/assets/118889454/9bec4cc1-b29e-4576-9d79-a3014dfee8f5)
+![nn5](https://github.com/Abrinnisha6/Experiment-2--Implementation-of-Perceptron/assets/118889454/7a7dcdb7-546e-4fa1-92b2-2a13e0ef1ba8)
 
 
 ### Error plot :
