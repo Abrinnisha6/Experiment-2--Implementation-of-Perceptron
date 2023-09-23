@@ -176,7 +176,7 @@ plt.show()
 
 ## RESULT :
 
-Thus a perceptron for classification is implemented using python
+Thus a perceptron for classification is implemented using python .
 
 
 
